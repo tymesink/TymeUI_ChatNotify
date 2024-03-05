@@ -1,0 +1,15 @@
+## Interface: 100002
+## Title: |cff1784d1TymeUI|r: ChatNotify
+## Author: Tymesink
+## Version: 1.0
+## Notes: Enables user defined sounds for Party, Guild, Raid and Custom Channel chat messages.
+## SavedVariables: ChatNotifyDB
+## OptionalDeps: Ace3
+
+#@no-lib-strip@
+libraries\load.xml
+#@end-no-lib-strip@
+
+libs.lua
+options.lua
+core.lua
