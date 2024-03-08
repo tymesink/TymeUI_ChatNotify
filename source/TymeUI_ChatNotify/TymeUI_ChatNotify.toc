@@ -1,4 +1,4 @@
-## Interface: 100002
+## Interface: 100205
 ## Title: |cff1784d1TymeUI|r: ChatNotify
 ## Author: Tymesink
 ## Version: 1.0
